@@ -1,7 +1,7 @@
 # GMTSAR Auto Installation Tool
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bcankara/autoGMTSAR/refs/heads/main/assets/img.png" alt="GMTSAR Auto Installation Tool Logo" width="80%">
+  <img src="https://raw.githubusercontent.com/bcankara/autoGMTSAR/refs/heads/main/assets/img.png" alt="GMTSAR Auto Installation Tool Logo" width="100%">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,7 +31,7 @@ This tool automates the installation process of GMTSAR and its dependencies, mak
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/bcankara/autoGMTSAR.git
+git clone https://github.com/bcankara/auto-GMTSAR-setup.git
 ```
 
 2. **Move installation files to home directory:**
@@ -101,7 +101,7 @@ InSAR, GMTSAR, SAR Processing, Remote Sensing, Geodesy, Earth Observation, Radar
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/bcankara/autoGMTSAR/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/bcankara/auto-GMTSAR-setup/issues) if you want to contribute.
 
 ## Support
 
