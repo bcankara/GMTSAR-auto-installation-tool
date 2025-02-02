@@ -37,7 +37,11 @@ git clone https://github.com/bcankara/autoGMTSAR.git
 2. Move installation files to home directory:
 ```bash
 cd autoGMTSAR
+```
+```bash
 cp installer.sh gmtsar_setup.sh env_setup.sh ~/
+```
+```bash
 cd ~
 ```
 
