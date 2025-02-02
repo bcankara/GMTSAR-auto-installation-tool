@@ -29,12 +29,12 @@ This tool automates the installation process of GMTSAR and its dependencies, mak
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/bcankara/autoGMTSAR.git
 ```
 
-2. Move installation files to home directory:
+2. **Move installation files to home directory:**
 
 Note: The installation files must be in your home directory (`/home/username/`) for proper installation.
 
@@ -48,15 +48,16 @@ cp installer.sh gmtsar_setup.sh env_setup.sh ~/
 cd ~
 ```
 
-3. Make the script executable:
+3. **Make the script executable:**
 ```bash
 chmod +x installer.sh
 ```
 
-4. Run the installation script:
+4. **Run the installation script:**
 ```bash
 bash installer.sh
 ```
+
 
 ## Installation Steps
 
