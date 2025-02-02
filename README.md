@@ -59,7 +59,7 @@ bash installer.sh
 ```
 
 
-## Installation Steps
+## How autoGMTSAR Works
 
 1. **System Setup**
    - System update and upgrade
