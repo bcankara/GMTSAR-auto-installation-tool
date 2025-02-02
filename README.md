@@ -35,6 +35,9 @@ git clone https://github.com/bcankara/autoGMTSAR.git
 ```
 
 2. Move installation files to home directory:
+
+Note: The installation files must be in your home directory (`/home/username/`) for proper installation.
+
 ```bash
 cd autoGMTSAR
 ```
@@ -54,8 +57,6 @@ chmod +x installer.sh
 ```bash
 bash installer.sh
 ```
-
-Note: The installation files must be in your home directory (`/home/username/`) for proper installation.
 
 ## Installation Steps
 
