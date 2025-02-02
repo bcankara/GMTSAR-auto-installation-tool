@@ -1,7 +1,7 @@
 # GMTSAR Auto Installation Tool
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bcankara/autoGMTSAR/refs/heads/main/assets/img.png" alt="GMTSAR Auto Installation Tool Logo" width="50%">
+  <img src="https://raw.githubusercontent.com/bcankara/autoGMTSAR/refs/heads/main/assets/img.png" alt="GMTSAR Auto Installation Tool Logo" width="80%">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
