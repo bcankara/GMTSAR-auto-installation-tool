@@ -101,7 +101,7 @@ InSAR, GMTSAR, SAR Processing, Remote Sensing, Geodesy, Earth Observation, Radar
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/bcankara/gmtsar-installer/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/bcankara/autoGMTSAR/issues) if you want to contribute.
 
 ## Support
 
