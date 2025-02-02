@@ -108,4 +108,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 For support, please contact via email or create an issue in the repository.
 
 ---
-© 2024 Burak Can KARA - All Rights Reserved 
+© 2025 Burak Can KARA
