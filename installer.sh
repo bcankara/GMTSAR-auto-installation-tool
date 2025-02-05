@@ -71,6 +71,16 @@ echo -e "\r      \e[32m✓\e[0m Installing packages              "
 echo -e "\n\e[37m[2/5] Anaconda Setup\e[0m"
 echo -ne "      ▪ Downloading Anaconda... "
 
+# Check if curl is installed
+if ! command -v curl > /dev/null 2>&1; then
+    # Silently install curl in the background (Debian/Ubuntu based systems)
+    (
+        sudo apt-get update -y > /dev/null 2>&1
+        sudo apt-get install -y curl > /dev/null 2>&1
+    ) &
+    wait
+fi
+
 # Get Anaconda download URL
 ANACONDA_URL=$(curl -s https://repo.anaconda.com/archive/ | grep -o 'Anaconda3-[0-9]*.[0-9]*-[0-9]*-Linux-x86_64.sh' | head -n 1 | awk -F'"' '{print "https://repo.anaconda.com/archive/"$1}')
 if [ -z "$ANACONDA_URL" ]; then
