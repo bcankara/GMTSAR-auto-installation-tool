@@ -39,7 +39,7 @@ git clone https://github.com/bcankara/auto-GMTSAR-setup.git
 Note: The installation files must be in your home directory (`/home/username/`) for proper installation.
 
 ```bash
-cd autoGMTSAR
+cd auto-GMTSAR-setup
 ```
 ```bash
 cp installer.sh gmtsar_setup.sh env_setup.sh ~/
